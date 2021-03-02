@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">Always a student</h3>
+<h3 align="center">Always a student ...</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
